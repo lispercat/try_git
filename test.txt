@@ -1,3 +1,3 @@
 line1: aaa
-line2: bbbkkgg
+line2: bbb-kkggmmm
 line3: ccc
